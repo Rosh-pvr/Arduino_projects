@@ -1,0 +1,2 @@
+The mistake i did with the configuration for these projects were to set the baud rating to a higher value than the processor would take which confuses the system.
+Secondly, before doing your projects i recommend you to analyse the processor chip and understand its driver type. It is not that all the chips have same drivers as in my case the ESP-8266 driver was informed to me as a CH-1102 Driver, but when i analysed it, it was actually a chinese based driver of cH-X typr.
